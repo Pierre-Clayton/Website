@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Pierre Clayton's Website # Website name
-baseURL: 'https://pclayton.ai/' # Website URL
+baseURL: 'https://pclayton.com/' # Website URL
 
 ############################
 ## PAGE OPTIONS
